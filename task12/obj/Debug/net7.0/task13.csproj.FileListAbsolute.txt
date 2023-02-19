@@ -1,0 +1,15 @@
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/bin/Debug/net7.0/task13
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/bin/Debug/net7.0/task13.deps.json
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/bin/Debug/net7.0/task13.runtimeconfig.json
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/bin/Debug/net7.0/task13.dll
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/bin/Debug/net7.0/task13.pdb
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/obj/Debug/net7.0/task13.csproj.AssemblyReference.cache
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/obj/Debug/net7.0/task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/obj/Debug/net7.0/task13.AssemblyInfoInputs.cache
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/obj/Debug/net7.0/task13.AssemblyInfo.cs
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/obj/Debug/net7.0/task13.csproj.CoreCompileInputs.cache
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/obj/Debug/net7.0/task13.dll
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/obj/Debug/net7.0/refint/task13.dll
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/obj/Debug/net7.0/task13.pdb
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/obj/Debug/net7.0/task13.genruntimeconfig.cache
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/task13/obj/Debug/net7.0/ref/task13.dll

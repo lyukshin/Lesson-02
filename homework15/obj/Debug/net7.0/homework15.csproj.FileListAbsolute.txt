@@ -1,0 +1,15 @@
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/obj/Debug/net7.0/homework15.csproj.AssemblyReference.cache
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/obj/Debug/net7.0/homework15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/obj/Debug/net7.0/homework15.AssemblyInfoInputs.cache
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/obj/Debug/net7.0/homework15.AssemblyInfo.cs
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/obj/Debug/net7.0/homework15.csproj.CoreCompileInputs.cache
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/bin/Debug/net7.0/homework15
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/bin/Debug/net7.0/homework15.deps.json
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/bin/Debug/net7.0/homework15.runtimeconfig.json
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/bin/Debug/net7.0/homework15.dll
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/bin/Debug/net7.0/homework15.pdb
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/obj/Debug/net7.0/homework15.dll
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/obj/Debug/net7.0/refint/homework15.dll
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/obj/Debug/net7.0/homework15.pdb
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/obj/Debug/net7.0/homework15.genruntimeconfig.cache
+/Users/oleglyukshin/Documents/Обучение/GeekBrain/Program/Lesson 02/homework15/obj/Debug/net7.0/ref/homework15.dll
