@@ -11,5 +11,4 @@ int number = Convert.ToInt32(Console.ReadLine());
 int digit1 = number%100;
 int digit2 = digit1/10;
 
-
 Console.WriteLine($"Итоговое число: {digit2}");
